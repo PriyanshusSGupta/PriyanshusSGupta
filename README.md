@@ -7,17 +7,15 @@
 </p>
 
 <ul>
-  <li>🚀 Passionate about building cool stuff in <b>Web Development</b> and <b>Machine Learning</b></li>
-  <li>🌍 Currently studying <b>Exploration Geophysics</b> but also diving deep into tech</li>
-  <li>👨‍💻 All of my projects are here: <a href="https://priyanshugportfolio.netlify.app/">Portfolio</a></li>
-  <li>📚 Always learning — from coding algorithms from scratch to experimenting with full-stack apps</li>
-  <li>💡 Love exploring new tools (currently tinkering with <b>Neovim</b>, <b>Flask</b>, and <b>React</b>)</li>
-  <li>📫 How to reach me: <b>priyanshu.gupta4work@gmail.com</b></li>
-  <li>⚡ Fun fact: I use <b>ARCH btw 😎</b></li>
+  <li>🚀 Into <b>Web Dev</b> & <b>Machine Learning</b></li>
+  <li>🌍 Studying <b>Exploration Geophysics</b></li>
+  <li>👨‍💻 Projects → <a href="https://priyanshugportfolio.netlify.app/">Portfolio</a></li>
+  <li>📚 Always learning & experimenting</li>
+  <li>💡 Playing with <b>Neovim</b>, <b>Flask</b>, <b>React</b></li>
+  <li>📫 Reach me → <b>priyanshu.gupta4work@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>I use ARCH btw 😎</b></li>
 </ul>
 
-
-<h3 align="left">Connect with me:</h3>
 
 <p align="center">
 </p>
