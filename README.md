@@ -12,9 +12,12 @@
   <li>👨‍💻 Projects → <a href="https://priyanshugportfolio.netlify.app/">Portfolio</a></li>
   <li>📚 Always learning & experimenting</li>
   <li>💡 Playing with <b>Neovim</b>, <b>Flask</b>, <b>React</b></li>
+  <li>🛠️ Built things from <b>ML from scratch</b> to <b>full-stack apps</b></li>
+  <li>🎯 Interested in <b>problem-solving</b> & <b>system design</b></li>
   <li>📫 Reach me → <b>priyanshu.gupta4work@gmail.com</b></li>
   <li>⚡ Fun fact: <b>I use ARCH btw 😎</b></li>
 </ul>
+
 
 
 <p align="center">
