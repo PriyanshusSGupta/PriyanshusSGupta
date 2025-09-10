@@ -1,9 +1,6 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshussgupta/priyanshussgupta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshussgupta/priyanshussgupta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyanshussgupta/priyanshussgupta/output/pacman-contribution-graph.svg">
-</picture>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=PriyanshusSGupta" />
+<!------>
 <h1 align="left">Hi 👋, I'm Priyanshu Gupta</h1>
 <h3 align="center">A Computer Enthusiast</h3>
 
