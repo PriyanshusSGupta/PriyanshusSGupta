@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshussgupta&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshussgupta" /> </p>
 <p>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="400" align="right" style="margin-right:20px;" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="375" align="right" style="margin-right:20px;" />
 </p>
 
 <ul>
