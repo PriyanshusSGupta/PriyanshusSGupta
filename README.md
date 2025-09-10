@@ -1,5 +1,5 @@
 <!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=PriyanshusSGupta" />
+<img src="https://pacman.abozanona.me?username=laurmaedje" />
 <!------>
 <h1 align="left">Hi 👋, I'm Priyanshu Gupta</h1>
 <h3 align="center">A Computer Enthusiast</h3>
